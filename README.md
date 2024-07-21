@@ -47,7 +47,6 @@
 
 <div>
 <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-F80000?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </div>
 
