@@ -49,6 +49,7 @@
 <div>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaSwing-F80000?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </div>
 
