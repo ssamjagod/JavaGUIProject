@@ -4,11 +4,17 @@
 </div>
 <br>
 수행과제1: Java 객체지향 프로그래밍
+<br>
 프로젝트 명 : 호텔 예약 프로그램
+<br>
 기술 Stack : Java, DAO&DTO, Oracle
+<br>
 목적 : 순수 객체 지향언어 기반 프로젝트
+<br>
 주요기능 : 고객관리(추가,삭제,수정,검색)
+<br>
 성과 : 객체생성 및 소멸이해, 객체지향 언어 특징 이해와 활용
+<br>
 
 ## 프로젝트 소개
 *순수 객체 지향언어 기반 프로젝트로 Gui기반 인터페이스를 구축하고 데이터베이스와 연동하여 고객관리(추가,삭제,수정,검색)를 하는 호텔 예약 프로그램입니다.
@@ -34,11 +40,6 @@
 ### Environment
 
 <div>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </div>
@@ -46,14 +47,9 @@
 ### Development
 
 <div>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-</div>
-
-### API
-
-<div>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </div>
 
 <br>
