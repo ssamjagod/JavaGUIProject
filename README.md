@@ -1,30 +1,24 @@
-# JavaGUIProject
+# :hotel: JavaGUIProject
 <div align="center">
 <p align="left"><img src="https://github.com/user-attachments/assets/40b8e2bf-71db-4f8d-a41c-03410d118fc3" width="700" height="500"></p>
 </div>
 <br>
-# 프로젝트 소개
 
+# :loudspeaker: 프로젝트 소개 
 <div>
 순수 객체 지향언어 기반 프로젝트로 Gui기반 인터페이스를 구축하고 데이터베이스와 연동하여 고객관리(추가,삭제,수정,검색)를 하는 호텔 예약 프로그램입니다.
 
-
-프로젝트 명 : 호텔 예약 프로그램
-
-기술 Stack : Java, DAO&DTO, Oracle
-
-목적 : 순수 객체 지향언어 기반 프로젝트
-
-주요기능 : 고객관리(추가,삭제,수정,검색)
-
-성과 : 객체생성 및 소멸이해, 객체지향 언어 특징 이해와 활용
-
+<b>프로젝트 명</b> : 호텔 예약 프로그램<br>
+<b>기술 Stack</b> : Java, DAO&DTO, Oracle<br>
+<b>목적</b> : 순수 객체 지향언어 기반 프로젝트<br>
+<b>주요기능</b> : 고객관리(추가,삭제,수정,검색)<br>
+<b>성과</b> : 객체생성 및 소멸이해, 객체지향 언어 특징 이해와 활용<br>
 </div>
 
 
 <br>
 
-## 팀원 구성
+## :sunglasses: 팀원 구성
 <div align="left">
 
 | **문형욱** |
@@ -34,20 +28,12 @@
 
 <br>
 
-## 개발 기간
+## :date: 개발 기간
 *2024.04.15 ~ 2024.04.22*
 
 <br>
 
-## 개발 환경
-### Environment
-
-<div>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
-</div>
-
-### Development
+## :computer: 개발 환경
 
 <div>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
@@ -58,7 +44,7 @@
 
 <br>
 
-## 주요 기능
+## :pencil2: 주요 기능
 **팔로우 간의 게시물 공유**
 - 사용자는 글을 등록, 삭제, 수정할 수 있습니다.
 - 사용자는 글 공개 여부를 설정할 수 있습니다.
