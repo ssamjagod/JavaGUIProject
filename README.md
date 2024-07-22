@@ -1,23 +1,26 @@
 # JavaGUIProject
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e5a7f162-f7f7-4f61-ac8a-13d6931cd6f1">
+<p align="left"><img src="https://github.com/user-attachments/assets/40b8e2bf-71db-4f8d-a41c-03410d118fc3" width="700" height="500"></p>
 </div>
 <br>
-수행과제1: Java 객체지향 프로그래밍
-<br>
-프로젝트 명 : 호텔 예약 프로그램
-<br>
-기술 Stack : Java, DAO&DTO, Oracle
-<br>
-목적 : 순수 객체 지향언어 기반 프로젝트
-<br>
-주요기능 : 고객관리(추가,삭제,수정,검색)
-<br>
-성과 : 객체생성 및 소멸이해, 객체지향 언어 특징 이해와 활용
-<br>
+# 프로젝트 소개
 
-## 프로젝트 소개
-*순수 객체 지향언어 기반 프로젝트로 Gui기반 인터페이스를 구축하고 데이터베이스와 연동하여 고객관리(추가,삭제,수정,검색)를 하는 호텔 예약 프로그램입니다.
+<div>
+순수 객체 지향언어 기반 프로젝트로 Gui기반 인터페이스를 구축하고 데이터베이스와 연동하여 고객관리(추가,삭제,수정,검색)를 하는 호텔 예약 프로그램입니다.
+
+
+프로젝트 명 : 호텔 예약 프로그램
+
+기술 Stack : Java, DAO&DTO, Oracle
+
+목적 : 순수 객체 지향언어 기반 프로젝트
+
+주요기능 : 고객관리(추가,삭제,수정,검색)
+
+성과 : 객체생성 및 소멸이해, 객체지향 언어 특징 이해와 활용
+
+</div>
+
 
 <br>
 
