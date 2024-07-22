@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e97029db-c091-46c1-a4b1-8f215ec894bd)# :hotel: JavaGUIProject
+# :hotel: JavaGUIProject
 <div align="center">
 <p align="left"><img src="https://github.com/user-attachments/assets/40b8e2bf-71db-4f8d-a41c-03410d118fc3" width="700" height="500"></p>
 </div>
@@ -66,8 +66,8 @@ Room 테이블의 해당 룸넘버의 사용가능 변수를 변경시켜 다른
   
 
 
-## ERD
+## :pencil: USECASE
 <div>
-  <img src="https://github.com/user-attachments/assets/a3d905be-60b2-459f-85c4-c816bd3c8983">
+  <img src="https://github.com/user-attachments/assets/13fc9ab4-be92-4cf2-bb3e-56e277d6f2a1" width="700" height="500">
 </div>
 
