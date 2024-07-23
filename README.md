@@ -1,12 +1,12 @@
 # :hotel: JavaGUIProject
 <div align="center">
-<p align="left"><img src="https://github.com/user-attachments/assets/40b8e2bf-71db-4f8d-a41c-03410d118fc3" width="700" height="500"></p>
+<p align="left"><kbd> <img src="https://github.com/user-attachments/assets/40b8e2bf-71db-4f8d-a41c-03410d118fc3" width = "700" height = "500" border="20px solid black"/>  </kbd></p>
 </div>
 <br>
 
 # :loudspeaker: 프로젝트 소개 
 <div>
-순수 객체 지향언어 기반 프로젝트로 Gui기반 인터페이스를 구축하고 데이터베이스와 연동하여 고객관리(추가,삭제,수정,검색)를 하는 호텔 예약 프로그램입니다.
+순수 객체 지향언어 기반 프로젝트로 Gui기반 인터페이스를 구축하고 데이터베이스와 연동하여  <br>고객관리(추가,삭제,수정,검색)를 하는 호텔 예약 프로그램입니다.
 
 <b>프로젝트 명</b> : 호텔 예약 프로그램<br>
 <b>기술 Stack</b> : Java, DAO&DTO, Oracle<br>
@@ -69,5 +69,32 @@ Room 테이블의 해당 룸넘버의 사용가능 변수를 변경시켜 다른
 ## :pencil: USECASE
 <div>
   <img src="https://github.com/user-attachments/assets/13fc9ab4-be92-4cf2-bb3e-56e277d6f2a1" width="700" height="500">
+</div>
+
+## :pencil: 주요 기능 화면
+### 메인화면 <br><br>
+<div>
+ <kbd> <img src="https://github.com/user-attachments/assets/6dc7b962-657d-4012-92f2-14aae2206a75" width = "700" height = "500" border="20px solid black"/>  </kbd>
+</div>
+
+### 회원가입/로그인 <br><br>
+<div>
+ <kbd> <img src="https://github.com/user-attachments/assets/763c911a-444b-41f1-b23b-49366bb7c5e5" width = "300" height = "300" border="20px solid black"/>  </kbd>
+  <kbd> <img src="https://github.com/user-attachments/assets/8ebbd3e7-f6ad-4361-8400-e06a552e88c5" width = "300" height = "300" border="20px solid black"/>  </kbd>
+</div>
+
+### 호텔ROOM <br><br>
+<div>
+ <kbd> <img src="https://github.com/user-attachments/assets/1144c7da-d014-4367-bede-ae0161772089" width = "400" height = "600" border="20px solid black"/>  </kbd>
+</div>
+
+### 예약하기 <br><br>
+<div>
+ <kbd> <img src="https://github.com/user-attachments/assets/80a626e0-e174-4d78-962b-33cbd1beec60" width = "700" height = "500" border="20px solid black"/>  </kbd>
+</div>
+
+### 예약내역 <br><br>
+<div>
+ <kbd> <img src="https://github.com/user-attachments/assets/8388f021-79ac-454c-a504-058fd9cd35ba" width = "500" height = "100" border="20px solid black"/>  </kbd>
 </div>
 
