@@ -85,19 +85,25 @@ Room 테이블의 해당 룸넘버의 사용가능 변수를 변경시켜 다른
   <kbd> <img src="https://github.com/user-attachments/assets/8ebbd3e7-f6ad-4361-8400-e06a552e88c5" width = "300" height = "300" border="20px solid black"/>  </kbd>
 </div>
 
-### 호텔ROOM <br>
+### 소개화면 <br>
 > #### 룸 이미지 RTYPE 마다 변경
 <div>
  <kbd> <img src="https://github.com/user-attachments/assets/1144c7da-d014-4367-bede-ae0161772089" width = "400" height = "600" border="20px solid black"/>  </kbd>
 </div>
 
-### 예약하기 <br>
+### 입양신청 <br>
 > #### DB에 ROOM 테이블에 저장 되어있는 ROOMNUM SELECT BOX 선택
 <div>
  <kbd> <img src="https://github.com/user-attachments/assets/80a626e0-e174-4d78-962b-33cbd1beec60" width = "700" height = "500" border="20px solid black"/>  </kbd>
 </div>
 
-### 예약내역 <br>
+### 관심반려견 <br>
+> #### 예약하기 버튼을 통해 예약 내역 UPDATE 후 테이블에 출력
+<div>
+ <kbd> <img src="https://github.com/user-attachments/assets/8388f021-79ac-454c-a504-058fd9cd35ba" width = "500" height = "100" border="20px solid black"/>  </kbd>
+</div>
+
+### 반려견리스트선택 <br>
 > #### 예약하기 버튼을 통해 예약 내역 UPDATE 후 테이블에 출력
 <div>
  <kbd> <img src="https://github.com/user-attachments/assets/8388f021-79ac-454c-a504-058fd9cd35ba" width = "500" height = "100" border="20px solid black"/>  </kbd>
